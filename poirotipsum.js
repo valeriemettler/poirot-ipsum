@@ -6,6 +6,8 @@ var quotes_array = [
     'Ah, you are not *accused*... you are *ex*-cused!',
     'Why must the English conceal even their most impeccable emotions?',
     'Now you have accidentally said something valuable.',
+    'Perhaps.',
+    'Poirot does not pull the legs.',
     'C\'est ça.',
     'Some of us, in the words of the divine Greta Garbo, want to be alone.',
     'If all these people are not implicated in the crime, then why have they all told me, under interrogation, stupid and often unnecessary lies? Why? Why? Why? Why?',
