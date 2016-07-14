@@ -1,11 +1,26 @@
+/*@font-face {
+  font-family: 'UpperEastSide';
+  src: url('uppereastside.ttf')  format('truetype') /* Safari, Android, iOS
+}*/
+
 body {
-    background-color: #2b4eaa;
+    /*font-family: 'UpperEastSide', Helvetica, sans-serif;*/
+    font-family: 'Poiret One', cursive;
+    background-color: #4365c1;
     color: #fff;
-    font-size: 16px;
+    font-size: 20px;
+    letter-spacing: 2px;
+    font-weight: 600;
 }
 h1 {
     text-align: center;
-
+    font-size: 37px;
+}
+p {
+  font-family: Helvetica, sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+  letter-spacing: 1px;
 }
 #x {
     width: 440px;
@@ -16,7 +31,7 @@ h1 {
 }
 #selector {
     margin: 0 auto;
-    width: 110px;
+    width: 111px;
 }
 button {
     background-color: #f44336;
@@ -26,7 +41,7 @@ button {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 14px;
+    font-size: 16px;
     border-radius: 3px;
 }
 *:focus {
